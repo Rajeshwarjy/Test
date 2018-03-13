@@ -1,0 +1,45 @@
+RAID monitoring reported critical status or failure of one or more hard disks.
+File system usage has exceeded a configured limit.
+Load Average Exceeds Selected Limit.
+A check has been executed to detect a BBU RAID error. The checking interval is 30 minutes.
+Connection limit of 25000 simultaneous connections has been exceeded.
+
+The Webgateway is still overloaded and delays accepts.
+MWG has still a lot of connections for longer > 30 sec (after sending the last incident)
+The appliance could not connect to n servers for NTLM authentication in Windows domain x.
+The appliance could not contact Windows domain x for NTLM authentication.
+
+
+172.30.1.217:22
+
+CPU Utilisation
+Memory Utilisation
+RAID monitoring reported critical status or failure of one or more hard disks
+Storage (hard disk space)
+Device restart/shutdown
+Domain connection stability
+Network stability (WAN Link)
+
+
+http://virtual-router.en.lo4d.com/
+2018.02.22 16:25:26, 181ms 548µs, 10.15.112.78-6126_2018.02.22_16_25_26_virtual-router.en.lo4d.com.xml
+
+
+
+109183
+
+
+139137
+
+YSL-250
+
+YBL- 21000 yesbank employee +contract (25000 mailboxes)
+
+YFL part of YBL
+treasury.com
+
+local.local
+
+application impact
+downtime
+ups and down
